@@ -1,0 +1,8 @@
+127.0.0.1
+prowse.tech
+localhost
+8.8.8.8
+10.0.2.1
+bs-computer1.example.com
+192.168.240.24
+fe80::cc6c:38ff:fe1f:ebac
