@@ -12,7 +12,7 @@ Run it!
 
 `speedtest-cli`
 
-Analyze the results and think about how you can make the Internet connection faster!
+Analyze the results and think about how you can make your Internet connection faster!
 
 To hide any public IP addresses and/or ISP information, use the following option:
 
