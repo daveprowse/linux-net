@@ -70,13 +70,7 @@ debian.iso                                                                      
 sftp> 
 ```
 
-While in an SFTP session, press the ? key to access a basic help system anInstructor demo only 
-
-
-Working!
-
-
-d list of commands that you can run. 
+While in an SFTP session, press the ? key to access a basic help system and list of commands that you can run. 
 
 That's about it. When finished you can exit the session by typing `bye` or `quit` or by pressing Ctrl + d. 
 

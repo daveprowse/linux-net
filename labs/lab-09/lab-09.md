@@ -1,6 +1,6 @@
 # Lab 09 ⚙️
 
-## Using Netplan to Configure a Static IP Configuration
+## Using Netplan to set up a Static IP Configuration
 Netplan is the front-end utility that is used to configure TCP/IP for Ubuntu Servers. The configuration files are written in YAML. In this lab we show how to view and re-configure Netplan.
 
 ### Analyze the netplan configuration

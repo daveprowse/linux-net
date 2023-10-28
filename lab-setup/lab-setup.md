@@ -117,14 +117,22 @@ I know, tons of options! Choose what works best for you. As I mentioned, Virtual
 
 ---
 
+**Now... Go get your systems up and running!** 👍🏼
+
+When you are done, you can check out [Lab 01](../labs/lab-01/lab-01_the-ip-command.md)
+
+---
+
 ## Dave's Lab Setup
 
 Here's an example of my lab setup for the video course:
 
 ![Lab Setup](../images/lab-setup.png)
 
+---
+
+Here's the same network map but with the IP address schemes I use:
+
+![Network Map](../images/network_map_with_IP.png)
 
 ---
-**Now... Go get your systems up and running!** 👍🏼
-
-When you are done, you can check out [Lab 01](../labs/lab-01/lab-01_the-ip-command.md)

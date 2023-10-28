@@ -1,9 +1,8 @@
 # Lab 39 ⚙️
 
-## NetPerf and Qperf
+## NetPerf
 
-Network performance tools can be used to measure the data throughput between one system and another. This lab shows how to use the NetPerf and Qperf tools to do just this. 
-
+Network performance tools can be used to measure the data throughput between one system and another. This lab shows how to use the NetPerf tool to do just this. 
 
 ## Working with NetPerf
 
@@ -83,7 +82,13 @@ Try the command from different systems on the LAN or within your virtualization 
 `-D 2` changes the interim of reporting to every 2 seconds
 `-f G` changes the outputed measurement to GBytes/sec  (multiple by 8 to get bits)
 
+### 😲 **Your performance is exemplary!**
+
+---
+
 ## 📃 Extra Credit
+
+There are plenty of other similar tools that you can use including iPerf and qperf. Here's a challenge for you:
 
 ## Working with qperf
 Let's see if you can get qperf to work on your own. I'll give a couple of hints.
@@ -97,5 +102,3 @@ Let's see if you can get qperf to work on your own. I'll give a couple of hints.
 Analyze your results!
 
 ---
-
-### 😲 **Your performance is exemplary!**

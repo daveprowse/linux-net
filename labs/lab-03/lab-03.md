@@ -19,3 +19,10 @@
 👍 **Fantastic! Another lab complete!**
 
 ---
+
+In case you missed it, here is my network map, with IP scheme.
+
+![Network Map](../../images/network_map_with_IP.png)
+
+---
+
