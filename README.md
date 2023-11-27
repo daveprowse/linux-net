@@ -16,7 +16,7 @@ All of the labs can be found within. The step-by-step lab files are written in M
 
 > In short, to follow along with me I recommend a Debian server as well as a Linux client (Debian as a client, Fedora Workstation, or Ubuntu Desktop). You can find step-by-step instructions and videos about how to install Debian (and other distros) at my website: https://prowse.tech/linux-installs/. And don't forget to subscribe for the latest updates!
 
-Check out my latest live streams: https://prowse.tech/upcoming-live-streams/ 
+Check out my latest live streams: https://prowse.tech/live-training/
 
 Enjoy!
 
