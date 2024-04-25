@@ -8,9 +8,9 @@ Discord Server: https://discord.gg/mggw8VGzUp
 
 ---
 
-This is the repository for the *Linux Networking Basics & Beyond* video course.
+This is the repository for the *[Linux Networking Basics & Beyond](https://learning.oreilly.com/course/linux-networking/9780138358051/)* video course.
 
-## *Note: This video course has not been released yet! Link to course coming soon...*
+
 
 > **Important!**: Make sure that you have at least two Linux systems (or virtual machines) ready to go! For details, see the [Lab Setup](lab-setup/lab-setup.md) document.
 
@@ -21,6 +21,5 @@ Check out my latest live streams: https://prowse.tech/live-training/
 Enjoy!
 
 Dave Prowse
-https://prowse.tech
 
 ---
