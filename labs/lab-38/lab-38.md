@@ -68,19 +68,27 @@ See if you can figure out what the `-L` and `-o` options do.
 > Note: The man page for `curl` is massive. Use your searching capabilities!
    
 ### Install Kea with the help of curl
+
 Kea is a DHCP server program designed by the ISC. It's heavily used in the field. It requires a script to run.
 
-Let's show how to use curl to initiate that script:
+Let's show how to use curl to initiate that script.
+
+Copy the scrupt below exactly into your terminal. You will need sudo permissions for your account.
 
 ```bash
 curl -1sLf \
-'https://dl.cloudsmith.io/public/isc/kea-2-4/cfg/setup/bash.deb.sh' \
-| sudo bash
+  'https://dl.cloudsmith.io/public/isc/kea-3-0/setup.deb.sh' \
+  | sudo -E bash
+
 ```
 
 That should download a script called "bash.deb.sh" and run it. The script is designed to do two things: 1. Make sure the proper dependencies are installed on your Linux system, and 2. Setup the repository for ISC Kea. 
 
-> Note: This lab document was originally written in October of 2023. If a significant amount of time has passed, you might need to use a newer version of Kea.
+> Note: This portion of the lab document was updated in September of 2025. If a significant amount of time has passed, you might need to use a newer version of Kea.
+
+Now, update your apt repositories:
+
+`sudo apt update`
 
 Now that your system is prepared, install the DHCP4 Kea server:
 
