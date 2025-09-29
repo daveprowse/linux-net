@@ -9,7 +9,7 @@ From the man page:
 
 ---
 
-So... it can transfer files using just about any protocol under the sun! Also, it is meant for scripts. 
+So... it can transfer files using just about any protocol under the sun! Also, it is meant for scripts.
 
 If you don’t have it, you can install it - example:
 
@@ -22,7 +22,7 @@ Execute the following command:
 
 `curl https://prowse.tech >> index.html`
 
-That should grab the main index.html page from my website and write it to a file named index.html locally. 
+That should grab the main index.html page from my website and write it to a file named index.html locally.
 
 >For fun, try the following:
 >
@@ -31,6 +31,7 @@ That should grab the main index.html page from my website and write it to a file
 >`curl ifconfig.me/all`
 
 ### Download a current version of Terraform
+
 - Make a new directory and access it:
   
   `mkdir test-dir && cd test-dir`
@@ -73,7 +74,7 @@ Kea is a DHCP server program designed by the ISC. It's heavily used in the field
 
 Let's show how to use curl to initiate that script.
 
-Copy the scrupt below exactly into your terminal. You will need sudo permissions for your account.
+Copy the script below exactly into your terminal. You will need sudo permissions for your account.
 
 ```bash
 curl -1sLf \
